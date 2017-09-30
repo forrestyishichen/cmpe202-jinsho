@@ -1,10 +1,15 @@
+
 # CMPE202 JinSho
 
-An interactive application or game built on the Java/Greenfoot, Unity Platform, any JavaScript Game Engine, or another Game Engine. Your team's Game must be playable on a Web Browser, so make sure that the game engine you chose has a Web deployment option.  Some examples of game engines include:  https://www.greenfoot.org/scenarios (Links to an external site.)Links to an external site., https://unity3d.com/webplayer (Links to an external site.)Links to an external site., http://melonjs.org (Links to an external site.)Links to an external site..  
+An interactive application or game built on the Unity Platform. The Game is playable on a Web Browser.
 
-Your team can build the Game from scratch or use an existing example and expand it.  Many examples exist on the web, but make sure that the source code is open sourced or licensed as such for academic use.  
+The "Key Focus" of this project is to explore how Design Patterns apply to a project and also to practice Agile Kanban and Scrum in a team project setting.
 
-The "Key Focus" of this project is for you to explore how Design Patterns apply to a project and also to practice Agile Kanban and Scrum in a team project setting.  The Game Features, Game Engine and Technology/Language used is therefore not a hard requirement and is up to your team to decide.
+1. [Task Board](https://github.com/nguyensjsu/cmpe202-jinsho/projects/1)
+2. [Wiki Journal Entry on XP/Agile Core Values](https://github.com/nguyensjsu/cmpe202-jinsho/wiki/Wiki-Journal-Entry-on-XP-Agile-Core-Values)
+3. [Weekly Meeting Minutes](https://github.com/nguyensjsu/cmpe202-jinsho/wiki/Weekly-Meeting-Minutes)
+4. [Cumulative Flow Diagram / Burndown Chart](https://github.com/nguyensjsu/cmpe202-jinsho/wiki/Jinsho-CFD)
+5. GitHub Activity (Commit History)
 
 ## Installation
 
