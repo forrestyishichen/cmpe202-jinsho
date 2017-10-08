@@ -24,3 +24,8 @@ We will use javascript syntax to implement our 3D Unity game. There are a couple
 5. The ability to create multiplayer games.
 
 As getting familiar with the structure and design of the engine, we will be always updating the game with the features applied.
+
+### 10/07/2017: 
+**Yilin Miao:**
+
+We have a prototype for our Unity 3D Game. However, just rolling a ball is boring. We are taking a deep look into the Unity framework and will work on a more amazing game.
