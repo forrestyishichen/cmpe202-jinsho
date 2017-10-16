@@ -29,3 +29,8 @@ As getting familiar with the structure and design of the engine, we will be alwa
 **Yilin Miao:**
 
 We have a prototype for our Unity 3D Game. However, just rolling a ball is boring. We are taking a deep look into the Unity framework and will work on a more amazing game.
+
+### 10/14/2017: 
+**Yilin Miao:**
+
+We have a prototype for melonjs Game. We will work on a more amazing game.
