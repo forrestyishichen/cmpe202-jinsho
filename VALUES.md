@@ -25,12 +25,24 @@ We will use javascript syntax to implement our 3D Unity game. There are a couple
 
 As getting familiar with the structure and design of the engine, we will be always updating the game with the features applied.
 
+**Yishi Chen:**
+
+Based on this week's communication, we have decided to pick javascript as our implementation language over java. The reason behind is our project is a Dynamic single page applications (SPAs). Some very typical javascript features such as interpreted language, dynamic type checking and prototype based will help us to build a small application much more efficiently. 
+
 ### 10/07/2017: 
 **Yilin Miao:**
 
 We have a prototype for our Unity 3D Game. However, just rolling a ball is boring. We are taking a deep look into the Unity framework and will work on a more amazing game.
 
+**Yishi Chen:**
+
+Based on this week's communication and team demo during the meeting, Yilin Miao provided us an amazing tutorial of unity javascript. We are pretty confindent to start our implemation after the midterm.
+
 ### 10/14/2017: 
 **Yilin Miao:**
 
 We have a prototype for melonjs Game. We will work on a more amazing game.
+
+**Yishi Chen:**
+
+Based on this week's communication and team meeting, we have collect some more material and knowledge of our whole project process.
