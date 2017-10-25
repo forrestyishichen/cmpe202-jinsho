@@ -57,3 +57,7 @@ In this week's meeting, we discussed the current difficulty of our project and w
 **Yilin Miao:**
 
 We started developing our first melonjs Game. The Feedback, **the XP Core Value**, is we are in progress but not very fast. Team members are new to the techniques so it takes time to get familiar with code with melonjs, and use its framework. This reflects on how we implementing the features and base model of the game. So far, we are struggling with the game development. We are working on finding a solution.
+
+**Yishi Chen:**
+
+I would like to pick **courage** as this week's xp value. Based on team's decides, we have choose molenjs as project framework and start to dig into it. Each of our team member are courage enough to try out some different type of example and we will find our target game type. 
