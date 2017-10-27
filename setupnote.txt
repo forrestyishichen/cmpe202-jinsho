@@ -1,0 +1,143 @@
+Last login: Wed Oct 25 15:17:23 on ttys000
+Forrests-MacBook-Pro:~ Forrest$ cd /Users/Forrest/Desktop/melonjs/project1.0
+Forrests-MacBook-Pro:project1.0 Forrest$ npm install -g grunt-cli]
+npm ERR! addLocal Could not install /Users/Forrest/Desktop/melonjs/project1.0/grunt-cli]
+npm ERR! Darwin 17.0.0
+npm ERR! argv "node" "/usr/local/bin/npm" "install" "-g" "grunt-cli]"
+npm ERR! node v0.12.7
+npm ERR! npm  v2.12.1
+npm ERR! path /Users/Forrest/Desktop/melonjs/project1.0/grunt-cli]
+npm ERR! code ENOENT
+npm ERR! errno -2
+
+npm ERR! enoent ENOENT, open '/Users/Forrest/Desktop/melonjs/project1.0/grunt-cli]'
+npm ERR! enoent This is most likely not a problem with npm itself
+npm ERR! enoent and is related to npm not being able to find a file.
+npm ERR! enoent
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /Users/Forrest/Desktop/melonjs/project1.0/npm-debug.log
+Forrests-MacBook-Pro:project1.0 Forrest$ npm install -g grunt-cli
+/usr/local/bin/grunt -> /usr/local/lib/node_modules/grunt-cli/bin/grunt
+grunt-cli@1.2.0 /usr/local/lib/node_modules/grunt-cli
+├── grunt-known-options@1.1.0
+├── resolve@1.1.7
+├── nopt@3.0.6 (abbrev@1.1.1)
+└── findup-sync@0.3.0 (glob@5.0.15)
+Forrests-MacBook-Pro:project1.0 Forrest$ cd
+.gitignore     README.md      index.css      lib/           package.json
+Gruntfile.js   data/          index.html     main.js        tasks/
+MIT-LICENSE    icons/         js/            manifest.json
+Forrests-MacBook-Pro:project1.0 Forrest$ cd melonJS
+-bash: cd: melonJS: No such file or directory
+Forrests-MacBook-Pro:project1.0 Forrest$ npm install
+npm WARN package.json boilerplate@2.1.3 No repository field.
+npm WARN package.json boilerplate@2.1.3 No license field.
+npm WARN peerDependencies The peer dependency grunt@~0.4.0 included from grunt-asar will no
+npm WARN peerDependencies longer be automatically installed to fulfill the peerDependency
+npm WARN peerDependencies in npm 3+. Your application will need to depend on it explicitly.
+npm WARN deprecated wrench@1.5.4: wrench.js is deprecated! You should check out fs-extra (https://github.com/jprichardson/node-fs-extra) for any operations you were using wrench for. Thanks for all the usage over the years.
+npm WARN deprecated http2@3.3.7: Use the built-in module in node 9.0.0 or newer, instead
+npm WARN deprecated minimatch@0.2.12: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+npm WARN deprecated minimatch@0.2.14: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+npm WARN deprecated minimatch@2.0.4: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+npm WARN deprecated graceful-fs@1.2.3: graceful-fs v3.0.0 and before will fail on node releases >= v7.0. Please update to graceful-fs@^4.0.0 as soon as possible. Use 'npm ls graceful-fs' to find it in the tree.
+npm WARN deprecated minimatch@0.3.0: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+npm WARN deprecated node-uuid@1.4.8: Use uuid module instead
+npm WARN engine esprima@4.0.0: wanted: {"node":">=4"} (current: {"node":"0.12.7","npm":"2.12.1"})
+npm ERR! Darwin 17.0.0
+npm ERR! argv "node" "/usr/local/bin/npm" "install"
+npm ERR! node v0.12.7
+npm ERR! npm  v2.12.1
+npm ERR! code EPEERINVALID
+
+npm ERR! peerinvalid The package grunt does not satisfy its siblings' peerDependencies requirements!
+npm ERR! peerinvalid Peer grunt-contrib-concat@1.0.1 wants grunt@>=0.4.0
+npm ERR! peerinvalid Peer grunt-contrib-connect@1.0.2 wants grunt@>=0.4.0
+npm ERR! peerinvalid Peer grunt-contrib-clean@1.1.0 wants grunt@>=0.4.5
+npm ERR! peerinvalid Peer grunt-asar@0.8.3 wants grunt@~0.4.0
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /Users/Forrest/Desktop/melonjs/project1.0/npm-debug.log
+Forrests-MacBook-Pro:project1.0 Forrest$ grunt
+Running "resources:dist" (resources) task
+>> build/js/resources.js
+
+Running "concat:dist" (concat) task
+
+Running "replace:dist" (replace) task
+>> 5 replacements in 1 file.
+
+Running "uglify:dist" (uglify) task
+>> 1 file created 1.02 MB → 229.87 kB
+
+Running "copy:dist" (copy) task
+Created 8 directories, copied 33 files
+
+Running "processhtml:dist" (processhtml) task
+
+Running "clean:app" (clean) task
+>> 1 path cleaned.
+
+Done.
+Forrests-MacBook-Pro:project1.0 Forrest$ grunt serve
+Running "resources:dist" (resources) task
+>> build/js/resources.js
+
+Running "connect:server" (connect) task
+Started connect web server on http://localhost:8000
+
+Running "watch" task
+Waiting...
+^C
+Forrests-MacBook-Pro:project1.0 Forrest$ clear
+Forrests-MacBook-Pro:project1.0 Forrest$ sudo npm install
+Password:
+Sorry, try again.
+Password:
+npm WARN package.json boilerplate@2.1.3 No repository field.
+npm WARN package.json boilerplate@2.1.3 No license field.
+npm WARN peerDependencies The peer dependency grunt@~0.4.0 included from grunt-asar will no
+npm WARN peerDependencies longer be automatically installed to fulfill the peerDependency
+npm WARN peerDependencies in npm 3+. Your application will need to depend on it explicitly.
+npm WARN deprecated minimatch@2.0.4: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+npm WARN deprecated node-uuid@1.4.8: Use uuid module instead
+npm ERR! Darwin 17.0.0
+npm ERR! argv "node" "/usr/local/bin/npm" "install"
+npm ERR! node v0.12.7
+npm ERR! npm  v2.12.1
+npm ERR! code EPEERINVALID
+
+npm ERR! peerinvalid The package grunt does not satisfy its siblings' peerDependencies requirements!
+npm ERR! peerinvalid Peer grunt-contrib-concat@1.0.1 wants grunt@>=0.4.0
+npm ERR! peerinvalid Peer grunt-contrib-connect@1.0.2 wants grunt@>=0.4.0
+npm ERR! peerinvalid Peer grunt-contrib-clean@1.1.0 wants grunt@>=0.4.5
+npm ERR! peerinvalid Peer grunt-asar@0.8.3 wants grunt@~0.4.0
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /Users/Forrest/Desktop/melonjs/project1.0/npm-debug.log
+Forrests-MacBook-Pro:project1.0 Forrest$ clear
+Forrests-MacBook-Pro:project1.0 Forrest$ grunt serve
+Running "resources:dist" (resources) task
+>> build/js/resources.js
+
+Running "connect:server" (connect) task
+Started connect web server on http://localhost:8000
+
+Running "watch" task
+Waiting...
+^C
+Forrests-MacBook-Pro:project1.0 Forrest$
+
+
+
+
+
+
+
+
+
+
+
+
+
