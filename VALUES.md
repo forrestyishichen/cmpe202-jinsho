@@ -61,3 +61,13 @@ We started developing our first melonjs Game. The Feedback, **the XP Core Value*
 **Yishi Chen:**
 
 I would like to pick **courage** as this week's xp value. Based on team's decides, we have choose molenjs as project framework and start to dig into it. Each of our team member are courage enough to try out some different type of example and we will find our target game type. 
+
+## 10/28/2017:
+
+In this week's meeting, we have move on and start to work on our first version.
+
+**Yishi Chen**
+
+I would like to pick **communicatation** as my value this week. We have decided our game domain as a japan sushi resturant because we communicate efficiently during the meeting.
+
+
