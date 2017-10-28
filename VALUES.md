@@ -68,6 +68,8 @@ In this week's meeting, we have move on and start to work on our first version.
 
 **Yishi Chen**
 
-I would like to pick **communicatation** as my value this week. We have decided our game domain as a japan sushi resturant because we communicate efficiently during the meeting.
+I would like to pick **communicatation** as my value this week. We have decided our game domain as a japan sushi resturant because we communicate efficiently during the meeting
 
+
+**Jingduo Huang**
 
