@@ -27,7 +27,7 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## Authors
+## Authors         
 
 * **Yilin Miao** - *Initial work* - [yilinmiao](https://github.com/yilinmiao)
 * **Yishi Chen** - *Initial Wiki* - [forrestyishichen](https://github.com/forrestyishichen)
