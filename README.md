@@ -11,36 +11,76 @@ The "Key Focus" of this project is to explore how Design Patterns apply to a pro
 4. [Cumulative Flow Diagram / Burndown Chart](https://github.com/nguyensjsu/cmpe202-jinsho/wiki/Jinsho-CFD-&-Burndown-Chart)
 5. GitHub Activity (Commit History)
 
-## Installation
+## Installation & Usage
+### Features 
+- video autoscaling
+- mobile optimized HTML/CSS
+- swiping disabled on iOS devices
+- debug Panel (if #debug)
+- default icons
+- distribution build
+- standalone build for desktop operating systems
 
-TODO: Describe the installation process
+### To run distribution
 
-## Usage
+To build, be sure you have [node](http://nodejs.org) installed. Clone the project:
 
-TODO: Write usage instructions
+    git clone https://github.com/melonjs/boilerplate.git
 
-## Contributing
+Then in the cloned directory, simply run:
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+    npm install
+
+You must also have `grunt-cli` installed globally:
+
+    npm install -g grunt-cli
+
+Running the game:
+
+	grunt serve
+
+And you will have the boilerplate example running on http://localhost:8000
+
+### Building Release Versions
+
+To build:
+
+    grunt
+
+This will create a `build` directory containing the files that can be uploaded to a server, or packaged into a mobile app.
+
+----
+
+Building a standalone desktop release:
+
+    grunt dist
+
+Running the desktop release on Windows:
+
+    .\bin\electron.exe
+
+Running the desktop release on macOS:
+
+    open ./bin/Electron.app
+
+Running the desktop release on Linux:
+
+    ./bin/electron
+
+Note that you may have to edit the file `Gruntfile.js` if you need to better dictate the order your files load in. Note how by default the game.js and resources.js are specified in a specific order.
+
+-------------------------------------------------------------------------------
+Copyright (C) 2011 - 2015 Olivier Biot, Jason Oster, Aaron McLeod
+melonJS is licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php)
 
 ## Authors
 
 * **Yilin Miao** - *Initial work* - [yilinmiao](https://github.com/yilinmiao)
 * **Yishi Chen** - *Initial Wiki* - [forrestyishichen](https://github.com/forrestyishichen)
+
 See also the list of [contributors](https://github.com/nguyensjsu/cmpe202-jinsho/graphs/contributors) who participated in this project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-TODO: Write Acknowledgments
-
-## Melonjs runing
-
-Add: grunt serve
