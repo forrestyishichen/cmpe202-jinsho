@@ -1,14 +1,6 @@
-melonJS boilerplate
+Shrek Go!
 -------------------------------------------------------------------------------
 
-features :
-- video autoscaling
-- mobile optimized HTML/CSS
-- swiping disabled on iOS devices
-- debug Panel (if #debug)
-- default icons
-- distribution build
-- standalone build for desktop operating systems
 
 ## To run distribution
 
@@ -59,5 +51,5 @@ Running the desktop release on Linux:
 Note that you may have to edit the file `Gruntfile.js` if you need to better dictate the order your files load in. Note how by default the game.js and resources.js are specified in a specific order.
 
 -------------------------------------------------------------------------------
-Copyright (C) 2011 - 2015 Olivier Biot, Jason Oster, Aaron McLeod
+Copyright (C) 2017 Yilin Miao
 melonJS is licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php)
