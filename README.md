@@ -69,10 +69,6 @@ Running the desktop release on Linux:
 
 Note that you may have to edit the file `Gruntfile.js` if you need to better dictate the order your files load in. Note how by default the game.js and resources.js are specified in a specific order.
 
--------------------------------------------------------------------------------
-Copyright (C) 2011 - 2015 Olivier Biot, Jason Oster, Aaron McLeod
-melonJS is licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php)
-
 ## Authors
 
 * **Yilin Miao** - *Initial work* - [yilinmiao](https://github.com/yilinmiao)
@@ -81,6 +77,4 @@ melonJS is licensed under the [MIT License](http://www.opensource.org/licenses/m
 See also the list of [contributors](https://github.com/nguyensjsu/cmpe202-jinsho/graphs/contributors) who participated in this project.
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
+melonJS is licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php)
