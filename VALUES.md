@@ -56,7 +56,7 @@ In this week's meeting, we discussed the current difficulty of our project and w
 
 **Yilin Miao:**
 
-We started developing our first melonjs Game. The Feedback, **the XP Core Value**, is we are in progress but not very fast. Team members are new to the techniques so it takes time to get familiar with code with melonjs, and use its framework. This reflects on how we implementing the features and base model of the game. So far, we are struggling with the game development. We are working on finding a solution.
+We started developing our first melonjs Game. The Feedback, **the XP Core Value**, is we are in progress but not very fast. Team members are new to the techniques so it takes time to get familiar with code with melonjs, and use its framework. This reflects on how we implement the features and base model of the game. So far, we are struggling with the game development. We are working on finding a solution.
 
 **Yishi Chen:**
 
@@ -65,6 +65,10 @@ I would like to pick **courage** as this week's xp value. Based on team's decide
 ## 10/28/2017:
 
 In this week's meeting, we have move on and start to work on our first version.
+
+**Yilin Miao:**
+
+We are at stage 5 of 10 of our first JS game Shrek Go! **the XP Core Value**, is team members need to be creative about the additional features and decorations can be implemented to the game. This relects on how we implement the game. So far, the game is common as a role play game.
 
 **Yishi Chen**
 
