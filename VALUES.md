@@ -73,3 +73,9 @@ I would like to pick **communicatation** as my value this week. We have decided 
 
 **Jingduo Huang**
 I will choose communications as my value in this week. I checked more than 40 games sample online this week. Because we want to get inspired from those gamse so that we can add fun functions to our game. After discussed with our teammates, we decided our game theme.
+
+## 11/1/2017:
+
+**Yishi Chen**
+
+I am very glad to upload first playable version of our game and will choose **Simplicity** as core value of this week. A playable version clearly diplay this value.
