@@ -56,7 +56,7 @@ In this week's meeting, we discussed the current difficulty of our project and w
 
 **Yilin Miao:**
 
-We started developing our first melonjs Game. The Feedback, **the XP Core Value**, is we are in progress but not very fast. Team members are new to the techniques so it takes time to get familiar with code with melonjs, and use its framework. This reflects on how we implementing the features and base model of the game. So far, we are struggling with the game development. We are working on finding a solution.
+We started developing our first melonjs Game. The Feedback, **the XP Core Value**, is we are in progress but not very fast. Team members are new to the techniques so it takes time to get familiar with code with melonjs, and use its framework. This reflects on how we implement the features and base model of the game. So far, we are struggling with the game development. We are working on finding a solution.
 
 **Yishi Chen:**
 
@@ -66,6 +66,10 @@ I would like to pick **courage** as this week's xp value. Based on team's decide
 
 In this week's meeting, we have move on and start to work on our first version.
 
+**Yilin Miao:**
+
+We are at stage 5 of 10 of our first JS game Shrek Go! **the XP Core Value**, is team members need to be creative about the additional features and decorations can be implemented to the game. This relects on how we implement the game. So far, the game is common as a role play game.
+
 **Yishi Chen**
 
 I would like to pick **communicatation** as my value this week. We have decided our game domain as a japan sushi resturant because we communicate efficiently during the meeting
@@ -73,3 +77,14 @@ I would like to pick **communicatation** as my value this week. We have decided 
 
 **Jingduo Huang**
 I will choose communications as my value in this week. I checked more than 40 games sample online this week. Because we want to get inspired from those gamse so that we can add fun functions to our game. After discussed with our teammates, we decided our game theme.
+
+## 11/1/2017:
+
+**Yishi Chen**
+
+I am very glad to upload first playable version of our game and will choose **Simplicity** as core value of this week. A playable version clearly diplay this value.
+
+**Jingduo Huang**
+
+Since we have developed the first palyable version of our game, I'd like to choose 'Simplicity' as core value for this week. It means we did what is needed and asked for, but no more. 
+
