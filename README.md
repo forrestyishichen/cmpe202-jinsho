@@ -7,7 +7,7 @@ The "Key Focus" of this project is to explore how Design Patterns apply to a pro
 
 1. [Task Board](https://github.com/nguyensjsu/cmpe202-jinsho/projects/1)
 2. [Wiki Journal Entry on XP/Agile Core Values](https://github.com/nguyensjsu/cmpe202-jinsho/blob/master/VALUES.md)
-3. [Weekly Meeting Minutes](https://github.com/nguyensjsu/cmpe202-jinsho/blob/master/Weekly-Meeting-Minutes)
+3. [Weekly Meeting Minutes](https://github.com/nguyensjsu/cmpe202-jinsho/blob/master/Weekly-Meeting-Minutes.md)
 4. [Cumulative Flow Diagram](https://docs.google.com/spreadsheets/u/4/d/1-edpu_H-L8hQ4v3yC0A2R4DUzi8HrjSyeIhlAKmyH4w/edit?usp=drive_web)
 5. [Burndown Chart](https://docs.google.com/spreadsheets/u/4/d/1QALRc81ugkEYgHz6_h0Lac5tWReTRK7607GrrbWLSmQ/edit?usp=drive_web)
 6. [issues]https://github.com/nguyensjsu/cmpe202-jinsho/issues
