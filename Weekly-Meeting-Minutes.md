@@ -73,7 +73,7 @@ We are trying to integrate all components together(such as voice, background, pe
  We developed the first palyabel version of the game. And we dicussed how to improve the current version so that it can have more functions and more fun. 
  
  ### 2.  What is the team going to do next week?
- We will continue the work as scheduled. We will try to finish the first version as soon as possible and add more functions to our game. 
- Again,  Jingduo Huang will continue to record meeting minutes and value. Yishi Chen is working on updating task board and Cumulative Flow Diagram / Burndown Chart. Yilin Miao will implement GitHub Activity (Commit History) and update wiki journal entry, and minutes.  
+ We will continue the work as scheduled. We will add more scenarios to the game. 
+ Jingduo Huang will continue to record meeting minutes and value. Besides, she will try to find some background music for the game. Yishi Chen is working on updating task board and Cumulative Flow Diagram / Burndown Chart. Yilin Miao will implement GitHub Activity (Commit History) and update wiki journal entry, and minutes.  
  ### 3.  What are the current blockers/challenges the team is facing?
  We are trying to integrate all components together(such as voice, background, person...) right now. But there are some bugs and we are still trying to fix it. 
