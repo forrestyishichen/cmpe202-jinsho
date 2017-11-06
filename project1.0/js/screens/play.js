@@ -4,7 +4,7 @@ game.PlayScreen = me.ScreenObject.extend({
      */
     onResetEvent: function() {
         // load a level
-        me.levelDirector.loadLevel("area01");
+        me.levelDirector.loadLevel("newarea01");
         
         // reset the score
         game.data.score = 0;
@@ -15,7 +15,8 @@ game.PlayScreen = me.ScreenObject.extend({
         me.game.world.addChild(this.HUD);
 
         // play the audio track
-        me.audio.playTrack("dst-inertexponent");
+        // me.audio.playTrack("dst-inertexponent");
+        me.audio.playTrack("nogamenolife");
     },
 
     /**

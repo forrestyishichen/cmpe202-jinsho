@@ -14,7 +14,7 @@
 /* eslint-disable space-before-blocks, no-global-assign, no-native-reassign */
 
 (function () {
-      
+
     /**
      * The built in window Object
      * @external window
