@@ -16,6 +16,8 @@ game.resources = [
 	// game font
     { name: "PressStart2P",       type:"image", src: "data/fnt/PressStart2P.png" },
     { name: "PressStart2P",       type:"binary", src: "data/fnt/PressStart2P.fnt"},
+    // title screen
+	{name: "title_screen",        type:"image",	src: "data/img/gui/title_screen.png"},
 
 	/*
 	 * Maps.
