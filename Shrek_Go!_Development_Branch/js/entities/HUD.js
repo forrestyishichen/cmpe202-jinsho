@@ -39,6 +39,13 @@ game.HUD.ScoreItem = me.Renderable.extend({
         // (size does not matter here)
         this._super(me.Renderable, 'init', [x, y, 10, 10]);
 
+        // create the font object
+        this.font = new me.BitmapFont(me.loader.getBinary('PressStart2P'), me.loader.getImage('PressStart2P'));
+
+        // font alignment to right, bottom
+        this.font.textAlign = "right";
+        this.font.textBaseline = "bottom";
+
         // local copy of the global score
         this.score = -1;
     },
@@ -61,6 +68,7 @@ game.HUD.ScoreItem = me.Renderable.extend({
      */
     draw : function (context) {
         // draw it baby !
+        this.font.draw (context, game.data.score, me.game.viewport.width + this.pos.x, me.game.viewport.height + this.pos.y);
     }
 
 });
