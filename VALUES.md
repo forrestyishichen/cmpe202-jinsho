@@ -82,7 +82,7 @@ I will choose communications as my value in this week. I checked more than 40 ga
 
 **Yilin Miao:**
 
-Shrek Go! prototype stage is done. The Feedback, **the XP Core Value**, is we are implementing features with the 23 design patterns learnt from the lectures. Team members are ok with the techniques so it is not a problem to using melonjs framework. This reflects on how we implement the game features and stages of the game. So far, we are drawing more level maps for the game development.
+_Shrek GO!_ prototype stage is done. The Feedback, **the XP Core Value**, is we are implementing features with the 23 design patterns learnt from the lectures. Team members are ok with the techniques so it is not a problem to using melonjs framework. This reflects on how we implement the game features and stages of the game. So far, we are drawing more level maps for the game development.
 
 **Yishi Chen**
 
