@@ -78,7 +78,11 @@ I would like to pick **communicatation** as my value this week. We have decided 
 **Jingduo Huang**
 I will choose communications as my value in this week. I checked more than 40 games sample online this week. Because we want to get inspired from those gamse so that we can add fun functions to our game. After discussed with our teammates, we decided our game theme.
 
-## 11/1/2017:
+## 11/4/2017:
+
+**Yilin Miao:**
+
+Shrek Go! prototype stage is done. The Feedback, **the XP Core Value**, is we are implementing features with the 23 design patterns learnt from the lectures. Team members are ok with the techniques so it is not a problem to using melonjs framework. This reflects on how we implement the game features and stages of the game. So far, we are drawing more level maps for the game development.
 
 **Yishi Chen**
 
