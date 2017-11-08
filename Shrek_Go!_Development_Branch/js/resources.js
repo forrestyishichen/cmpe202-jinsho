@@ -28,7 +28,7 @@ game.resources = [
 	/*
 	 * Background music.
 	 */
-	{name: "dst-inertexponent", type: "audio", src: "data/bgm/"},
+	{name: "DST-XYAura", type: "audio", src: "data/bgm/"},
 
 	/*
 	 * Sound effects.

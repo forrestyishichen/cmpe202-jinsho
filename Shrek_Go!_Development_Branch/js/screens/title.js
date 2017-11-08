@@ -5,6 +5,9 @@ game.TitleScreen = me.ScreenObject.extend({
      */
     onResetEvent : function() {
 
+        // play the audio track
+        me.audio.playTrack("DST-XYAura");
+
         // title screen
         var backgroundImage = new me.Sprite(0, 0, {
                image: me.loader.getImage('title_screen'),
@@ -30,7 +33,7 @@ game.TitleScreen = me.ScreenObject.extend({
                  // a tween to animate the arrow
                 this.scrollertween = new me.Tween(this).to({scrollerpos: -2200 }, 10000).onComplete(this.scrollover.bind(this)).start();
 
-                this.scroller = "A SMALL STEP BY STEP TUTORIAL FOR GAME CREATION WITH MELONJS       ";
+                this.scroller = "CMPE202 JinSho";
                 this.scrollerpos = 600;
             },
 
