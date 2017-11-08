@@ -82,7 +82,7 @@ I will choose communications as my value in this week. I checked more than 40 ga
 
 **Yilin Miao:**
 
-_Shrek GO!_ prototype stage is done. The Feedback, **the XP Core Value**, is we are implementing features with the 23 design patterns learnt from the lectures. Team members are ok with the techniques so it is not a problem to using melonjs framework. This reflects on how we implement the game features and stages of the game. So far, we are drawing more level maps for the game development.
+_Shrek GO!_ prototype stage is done. The Feedback, **the XP Core Value**, is we are implementing features with the 23 design patterns learnt from the lectures. Team members are ok with the techniques so it is not a problem to use melonjs framework. This reflects on how we implement the game features and stages of the game. So far, we are drawing more level maps for the game development.
 
 **Yishi Chen**
 
@@ -91,4 +91,10 @@ I am very glad to upload first playable version of our game and will choose **Si
 **Jingduo Huang**
 
 Since we have developed the first palyable version of our game, I'd like to choose 'Simplicity' as core value for this week. It means we did what is needed and asked for, but no more. 
+
+## 11/11/2017:
+
+**Yilin Miao:**
+
+_Shrek GO!_ stage2 is done. The Feedback, **the XP Core Value**, is we have implemented 1 design pattern. Team members are ok with the techniques so it is not a problem to utilize more patterns. This reflects on how we implement the game features and stages of the game.
 
