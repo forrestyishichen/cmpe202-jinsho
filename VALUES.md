@@ -11,7 +11,7 @@ The aims of XP Feedback is to take every iteration commitment seriously by deliv
 
 **Yishi Chen:**
 
-I will glad to pick “communication” as my core agile value throughout the term project exercise this semester. Extreme Programming does not depend on extensive documentation. As a matter of fact, extreme programming documentation is suggested only when necessary. So the methodology relies heavily on communication between team members and also with the users. We will have a weekly team meeting during the entire project session. Instead of heavily rely on communicating through Github documentation, we will fully take the advantages of face to face communication during the team meeting. A good communication ensure a good understanding of everyone's work. We will keep this as a good exercise till the end of the semester.
+I will glad to pick c as my core agile value throughout the term project exercise this semester. Extreme Programming does not depend on extensive documentation. As a matter of fact, extreme programming documentation is suggested only when necessary. So the methodology relies heavily on communication between team members and also with the users. We will have a weekly team meeting during the entire project session. Instead of heavily rely on communicating through Github documentation, we will fully take the advantages of face to face communication during the team meeting. A good communication ensure a good understanding of everyone's work. We will keep this as a good exercise till the end of the semester.
 
 ### 9/30/2017: 
 **Yilin Miao:**
@@ -97,4 +97,9 @@ Since we have developed the first palyable version of our game, I'd like to choo
 **Yilin Miao:**
 
 _Shrek GO!_ stage2 is done. The Feedback, **the XP Core Value**, is we have implemented 1 design pattern. Team members are ok with the techniques so it is not a problem to utilize more patterns. This reflects on how we implement the game features and stages of the game.
+
+**Yishi Chen**
+
+Merged my project v1.2 to master _Shrek GO!_. New map has been implemented. I would like to pick **communication** as this week's value. A good team meeting will make much more progress during individual work.
+
 
