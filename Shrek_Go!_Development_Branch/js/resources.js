@@ -4,11 +4,14 @@ game.resources = [
 	 */
 	// our level tileset
 	{name: "area01_level_tiles",  type:"image",	src: "data/img/map/area01_level_tiles.png"},
+	{name: "spritesheet_ground",  type:"image",	src: "data/img/map/spritesheet_ground.png"},
+	{name: "spritesheet_tiles",   type:"image",	src: "data/img/map/spritesheet_tiles.png"},
 	// the main player spritesheet
 	{name: "gripe_run_right",     type:"image",	src: "data/img/sprite/gripe_run_right.png"},
 	// the parallax background
 	{name: "area01_bkg0",         type:"image",	src: "data/img/area01_bkg0.png"},
 	{name: "area01_bkg1",         type:"image",	src: "data/img/area01_bkg1.png"},
+	{name: "colored_grass",       type:"image",	src: "data/img/colored_grass.png"},
 	// the spinning coin spritesheet
 	{name: "spinning_coin_gold",  type:"image",	src: "data/img/sprite/spinning_coin_gold.png"},
 	// our enemty entity
@@ -24,6 +27,7 @@ game.resources = [
  	 */
 	{name: "area01",              type: "tmx",	src: "data/map/area01.tmx"},
 	{name: "area02",              type: "tmx",	src: "data/map/area02.tmx"},
+	{name: "newmap01",            type: "tmx",	src: "data/map/newmap01.tmx"},
 
 	/*
 	 * Background music.
