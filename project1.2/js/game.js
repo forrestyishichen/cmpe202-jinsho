@@ -20,6 +20,7 @@ var game = {
         if (!me.video.init(5120, 1920, {wrapper : "screen", scale : "auto", scaleMethod : "flex-width"})) {
             alert("Your browser does not support HTML5 canvas.");
             return;
+                 
         }
 
         // add "#debug" to the URL to enable the debug Panel
