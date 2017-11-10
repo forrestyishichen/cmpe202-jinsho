@@ -83,7 +83,7 @@ We are trying to integrate all components together(such as voice, background, pe
  
  **Attendees：** Yishi Chen, Jingduo Huang, Yilin Miao.
  ### 1.  What did the team do the past week?
- We redrew the background our game. The current version is more fancy and have more scenarioes.
+ We redrew the game map our game. The current version is more fancy and have more scenarioes.
  We found more figures and icons online which we are adding to our game.
  
  ### 2.  What is the team going to do next week?
