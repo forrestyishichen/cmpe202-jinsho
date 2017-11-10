@@ -102,4 +102,5 @@ _Shrek GO!_ stage2 is done. The Feedback, **the XP Core Value**, is we have impl
 
 Merged my project v1.2 to master _Shrek GO!_. New map has been implemented. I would like to pick **communication** as this week's value. A good team meeting will make much more progress during individual work.
 
-
+**Jingduo Huang**
+The second version of our game has been implemented. New map has been developed. I want to choose "communication" as this week's value. In the weekly meeting, we solved the bugs and discussed more scenario which will be added to our game.
