@@ -83,12 +83,12 @@ We are trying to integrate all components together(such as voice, background, pe
  
  **Attendees：** Yishi Chen, Jingduo Huang, Yilin Miao.
  ### 1.  What did the team do the past week?
- We redrew the game map our game. The current version is more fancy and have more scenarioes.
+ We re-drew the game map our game. The current version is more fancy and have more scenarioes.
  We found more figures and icons online which we are adding to our game.
  
  ### 2.  What is the team going to do next week?
- We will continue the work as scheduled. We will add more scenarios to the game. 
- Jingduo Huang will continue to record meeting minutes and value. Besides, she will try to find some background music for the game. Yishi Chen is working on updating task board and Cumulative Flow Diagram / Burndown Chart. And he will also draw longer background in the next week. Yilin Miao will implement GitHub Activity (Commit History) and update wiki journal entry, and minutes.  
+ We will continue the work as scheduled. We will replace current figure and icons into the game.  We will also extend the current map and add more scenario into the game. 
+ Jingduo Huang will continue to record meeting minutes and value.  Yishi Chen is working on updating task board and Cumulative Flow Diagram / Burndown Chart. And he will also draw longer background in the next week. Yilin Miao will implement GitHub Activity (Commit History) and update wiki journal entry, and minutes.  
  
  ### 3.  What are the current blockers/challenges the team is facing?
- We haven't integrated all components together(such as voice, background, person...) right now. We are still working on it. 
+ We are insert figure and icons into the game, but there are some problem with the resolution adjustment. 
