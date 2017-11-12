@@ -33,11 +33,8 @@ Then in the cloned directory, simply run:
 
     npm install
 
-<<<<<<< HEAD
 ## Authors         
-=======
 You must also have `grunt-cli` installed globally:
->>>>>>> 3935774c20f689388729da0e10e256a400f9a6b4
 
     npm install -g grunt-cli
 
