@@ -127,6 +127,8 @@ game.PlayerEntity = me.Entity.extend({
                 else {
                     // let's flicker in case we touched an enemy
                     this.renderable.flicker(750);
+                    game.data.level = me.levelDirector.getCurrentLevelId();
+                    me.levelDirector.loadLevel(game.data.level);
                 }
                 return false;
                 break;

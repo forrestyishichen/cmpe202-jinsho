@@ -12,6 +12,7 @@ game.resources = [
 	{name: "area01_bkg0",         type:"image",	src: "data/img/area01_bkg0.png"},
 	{name: "area01_bkg1",         type:"image",	src: "data/img/area01_bkg1.png"},
 	{name: "colored_grass",       type:"image",	src: "data/img/colored_grass.png"},
+	{name: "colored_desert",       type:"image",	src: "data/img/colored_desert.png"},
 	// the spinning coin spritesheet
 	{name: "spinning_coin_gold",  type:"image",	src: "data/img/sprite/spinning_coin_gold.png"},
 	// our enemty entity
@@ -25,9 +26,8 @@ game.resources = [
 	/*
 	 * Maps.
  	 */
-	{name: "area01",              type: "tmx",	src: "data/map/area01.tmx"},
-	{name: "area02",              type: "tmx",	src: "data/map/area02.tmx"},
 	{name: "newmap01",            type: "tmx",	src: "data/map/newmap01.tmx"},
+	{name: "newmap02",            type: "tmx",	src: "data/map/newmap02.tmx"},
 
 	/*
 	 * Background music.
