@@ -80,4 +80,4 @@ Note that you may have to edit the file `Gruntfile.js` if you need to better dic
 See also the list of [contributors](https://github.com/nguyensjsu/cmpe202-jinsho/graphs/contributors) who participated in this project.
 
 ## License
-melonJS is licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php
+melonJS is licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php)
