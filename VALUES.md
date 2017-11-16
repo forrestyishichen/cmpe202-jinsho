@@ -104,3 +104,16 @@ Merged my project v1.2 to master _Shrek GO!_. New map has been implemented. I wo
 
 **Jingduo Huang**
 The second version of our game has been implemented. New map has been developed. I want to choose "communication" as this week's value. In the weekly meeting, we solved the bugs and discussed more scenario which will be added to our game.
+
+
+## 11/18/2017:
+
+**Yilin Miao:**
+
+
+
+**Yishi Chen**
+
+
+**Jingduo Huang**
+
