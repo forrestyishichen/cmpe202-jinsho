@@ -106,14 +106,9 @@ Merged my project v1.2 to master _Shrek GO!_. New map has been implemented. I wo
 The second version of our game has been implemented. New map has been developed. I want to choose "communication" as this week's value. In the weekly meeting, we solved the bugs and discussed more scenario which will be added to our game.
 
 
-## 11/18/2017:
-
-**Yilin Miao:**
-
-
+## 11/15/2017
 
 **Yishi Chen**
 
-
-**Jingduo Huang**
-
+Complete and commited project 1.3 with two complete game level. I am pretty pround with every member of the team cause we only have three members due to some reasons. But anyway, let's keep **Simplicity** as our core value.
+>>>>>>> faf633f9c37e4826c666b3add48e6f340355b199
