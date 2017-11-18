@@ -111,4 +111,5 @@ The second version of our game has been implemented. New map has been developed.
 **Yishi Chen**
 
 Complete and commited project 1.3 with two complete game level. I am pretty pround with every member of the team cause we only have three members due to some reasons. But anyway, let's keep **Simplicity** as our core value.
->>>>>>> faf633f9c37e4826c666b3add48e6f340355b199
+
+
