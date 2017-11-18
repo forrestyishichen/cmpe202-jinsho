@@ -23,6 +23,8 @@ The "Key Focus" of this project is to explore how Design Patterns apply to a pro
 - distribution build
 - standalone build for desktop operating systems
 
+The game is using Tiled as the level editor.
+
 ### To run distribution
 
 To build, be sure you have [node](http://nodejs.org) installed. Clone the project:
@@ -32,8 +34,7 @@ To build, be sure you have [node](http://nodejs.org) installed. Clone the projec
 Then in the cloned directory, simply run:
 
     npm install
-
-## Authors         
+     
 You must also have `grunt-cli` installed globally:
 
     npm install -g grunt-cli
