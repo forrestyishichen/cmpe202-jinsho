@@ -117,3 +117,5 @@ Added Features such as auto reset after touching the monster. The Feedback, **th
 Complete and commited project 1.3 with two complete game level. I am pretty pround with every member of the team cause we only have three members due to some reasons. But anyway, let's keep **Simplicity** as our core value.
 
 
+** Jingduo Huang**
+I'd like to choose Simplicity as value in this week. We have developed a new version 1.3 with more features. We hope to add more features to the current version.
