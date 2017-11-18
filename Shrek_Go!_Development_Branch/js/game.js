@@ -4,8 +4,7 @@ var game = {
    * an object where to store game global data
    */
   data : {
-    score : 0,
-    level : "newmap01"
+    score : 0
   },
 
   // Run on page load.
