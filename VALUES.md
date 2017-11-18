@@ -106,7 +106,11 @@ Merged my project v1.2 to master _Shrek GO!_. New map has been implemented. I wo
 The second version of our game has been implemented. New map has been developed. I want to choose "communication" as this week's value. In the weekly meeting, we solved the bugs and discussed more scenario which will be added to our game.
 
 
-## 11/15/2017
+## 11/17/2017
+
+**Yilin Miao:**
+
+Added Features such as auto reset after touching the monster. The Feedback, **the XP Core Value**, is all team members need to contribute on the project. All team member need to deliver what they have done every week.
 
 **Yishi Chen**
 
