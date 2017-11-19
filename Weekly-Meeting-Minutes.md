@@ -97,8 +97,9 @@ We are trying to integrate all components together(such as voice, background, pe
  
  **Attendees：** Yishi Chen, Jingduo Huang, Yilin Miao.
  ### 1.  What did the team do the past week?
- 
+ We are happy to say that we finished the implementation.
  ### 2.  What is the team going to do next week?
- 
+ We are preparing ppt for the presentation.
  ### 3.  What are the current blockers/challenges the team is facing?
+ None.
  
