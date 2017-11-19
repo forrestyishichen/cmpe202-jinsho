@@ -10,7 +10,7 @@ game.TitleScreen = me.ScreenObject.extend({
 
         // title screen
         var backgroundImage = new me.Sprite(0, 0, {
-               image: me.loader.getImage('newtitle_screen'),
+               image: me.loader.getImage('bg_shroom'),
             }
         );
 
