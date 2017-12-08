@@ -144,9 +144,9 @@ game.PlayerEntity = me.Entity.extend({
 
   restartGame: function()
   {
-      game.data.level = me.levelDirector.getCurrentLevelId();
+      // game.data.level = me.levelDirector.getCurrentLevelId();
       // me.levelDirector.loadLevel(game.data.level);
-      me.state.change(me.state.MENU);
+      me.state.change(me.state.GAME_OVER);
   }
 });
 

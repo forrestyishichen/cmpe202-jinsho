@@ -26,7 +26,13 @@ game.resources = [
     // title screen
 	{name: "title_screen",        type:"image",	src: "data/img/gui/title_screen.png"},
 	{name: "bg_shroom",           type:"image",	src: "data/img/gui/jinsho_go.png"},
-
+	/*
+	* Game over
+	*/
+	{name: "bg", type:"image", src: "data/img/bg.png"},
+	{name: "gameover", type:"image", src: "data/img/gameover.png"},
+    {name: "gameoverbg", type:"image", src: "data/img/gameoverbg.png"},
+    {name: "new", type:"image", src: "data/img/new.png"},
 	/*
 	* Json for Game Intro Movie
 	*/

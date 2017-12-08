@@ -5,7 +5,8 @@ var game = {
    */
   data : {
     score : 0,
-    level : "newmap01"
+    level : "newmap01",
+    newHiScore: false
   },
 
   // Run on page load.
@@ -40,8 +41,8 @@ var game = {
   loaded : function () {
     me.state.set(me.state.MENU, new game.TitleScreen());
     me.state.set(me.state.PLAY, new game.PlayScreen());
-    // me.state.set(me.state.VIDEO, new game.VideoScreen());
-
+    // me.state.set(me.state.GAME_OVER, new game.GameOverScreen());
+    
     // add our player entity in the entity pool
     me.pool.register("mainPlayer", game.PlayerEntity);
     me.pool.register("CoinEntity", game.CoinEntity);
