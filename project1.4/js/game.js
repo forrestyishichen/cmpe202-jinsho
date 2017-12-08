@@ -4,7 +4,8 @@ var game = {
    * an object where to store game global data
    */
   data : {
-    score : 0
+    score : 0,
+    level : "newmap01"
   },
 
   // Run on page load.
@@ -39,11 +40,13 @@ var game = {
   loaded : function () {
     me.state.set(me.state.MENU, new game.TitleScreen());
     me.state.set(me.state.PLAY, new game.PlayScreen());
+    // me.state.set(me.state.VIDEO, new game.VideoScreen());
 
     // add our player entity in the entity pool
     me.pool.register("mainPlayer", game.PlayerEntity);
     me.pool.register("CoinEntity", game.CoinEntity);
     me.pool.register("EnemyEntity", game.EnemyEntity);
+    // me.pool.register("DeathEntity",game.DeathEntity);
 
     // enable the keyboard
     me.input.bindKey(me.input.KEY.LEFT,   "left");
@@ -52,5 +55,6 @@ var game = {
 
     // Start the game.
     me.state.change(me.state.MENU);
+
   }
 };

@@ -127,8 +127,7 @@ game.PlayerEntity = me.Entity.extend({
                 else {
                     // let's flicker in case we touched an enemy
                     this.renderable.flicker(750);
-                    game.data.level = me.levelDirector.getCurrentLevelId();
-                    me.levelDirector.loadLevel(game.data.level);
+                    this.restartGame();
                     
                 }
                 return false;
@@ -141,8 +140,29 @@ game.PlayerEntity = me.Entity.extend({
 
         // Make the object solid
         return true;
+  },
+
+  restartGame: function()
+  {
+      game.data.level = me.levelDirector.getCurrentLevelId();
+      // me.levelDirector.loadLevel(game.data.level);
+      me.state.change(me.state.MENU);
   }
 });
+
+// /**
+//  * Entities that when touched will end the game.
+//  */
+// game.DeathEntity = me.Entity.extend({
+//     init: function(x, y, settings) {
+//         // call the parent constructor
+//         this._super(me.CollectableEntity, 'init', [x, y, settings]);
+
+//         // set a custom collision type
+//         this.body.collisionType = game.collisionTypes.TOUCH_DEATH;
+//     }
+// })
+
 /**
  * Coin Entity
  */

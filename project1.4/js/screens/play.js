@@ -4,6 +4,7 @@ game.PlayScreen = me.ScreenObject.extend({
    */
   onResetEvent : function () {
 
+    me.audio.playTrack("DST-XYAura");
     // load a level
     me.levelDirector.loadLevel("newmap01");
 

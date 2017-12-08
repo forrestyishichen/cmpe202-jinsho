@@ -6,7 +6,7 @@ game.TitleScreen = me.ScreenObject.extend({
     onResetEvent : function() {
 
         // play the audio track
-        me.audio.playTrack("DST-XYAura");
+        // me.audio.playTrack("DST-XYAura");
 
         // title screen
         var backgroundImage = new me.Sprite(0, 0, {
@@ -50,7 +50,7 @@ game.TitleScreen = me.ScreenObject.extend({
 
             draw : function (renderer) {
                 this.font.textAlign = "center";
-                this.font.draw(renderer, "PRESS ENTER TO PLAY", me.game.viewport.width / 2, 240);
+                this.font.draw(renderer, "PRESS ENTER TO PLAY", me.game.viewport.width / 2, 350);
                 this.font.textAlign = "left";
                 this.font.draw(renderer, this.scroller, this.scrollerpos, 440);
             },
