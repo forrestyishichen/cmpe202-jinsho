@@ -27,11 +27,7 @@ The game is using Tiled as the level editor.
 
 ### To run distribution
 
-To build, be sure you have [node](http://nodejs.org) installed. Clone the project:
-
-    git clone https://github.com/melonjs/boilerplate.git
-
-Then in the cloned directory, simply run:
+simply run:
 
     npm install
      
