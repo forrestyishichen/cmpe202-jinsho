@@ -28,6 +28,16 @@ game.resources = [
 	{name: "bg_shroom",           type:"image",	src: "data/img/gui/jinsho_go.png"},
 
 	/*
+	* Json for Game Intro Movie
+	*/
+	{name: "titleatlas0",      type: "image",      src: "data/img/titleatlas0.png"},
+    {name: "titleatlas1",      type: "image",      src: "data/img/titleatlas1.png"},
+    {name: "titleatlas0",      type: "json",		src: "data/img/titleatlas0.json"},
+    {name: "titleatlas1",      type: "json",		src: "data/img/titleatlas1.json"},
+    {name: "title",				type: "audio",		src: "data/sfx/"},
+    {name: "atlas",				type: "image",		src: "data/img/atlas.png"},
+    {name: "atlas",				type: "json", 		src: "data/img/atlas.json"},
+	/*
 	 * Maps.
  	 */
 	{name: "newmap01",            type: "tmx",	src: "data/map/newmap01.tmx"},

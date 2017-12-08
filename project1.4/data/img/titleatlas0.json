@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "bg.png",
+	"frame": {"x":2,"y":1351,"w":960,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":640},
+	"sourceSize": {"w":960,"h":640}
+},
+{
+	"filename": "clouds.png",
+	"frame": {"x":2,"y":2,"w":1364,"h":321},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1364,"h":321},
+	"sourceSize": {"w":1364,"h":321}
+},
+{
+	"filename": "forwardcity.png",
+	"frame": {"x":2,"y":325,"w":1256,"h":1024},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1256,"h":1024},
+	"sourceSize": {"w":1256,"h":1024}
+},
+{
+	"filename": "vignette.png",
+	"frame": {"x":964,"y":1351,"w":960,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":640},
+	"sourceSize": {"w":960,"h":640}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "titleatlas0.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:75f4c2ebb4824f7edbc369c896d60b33:cc531814c6f6bc0de8f75dbf560b6b85:461c6615dcd9f07b96246bef0b7f874f$"
+}
+}
