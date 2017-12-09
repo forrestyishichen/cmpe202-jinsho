@@ -36,12 +36,6 @@
     <property name="image" value="food"/>
    </properties>
   </object>
-  <object id="30" name="CoinEntity" x="95" y="410" width="32" height="32">
-   <properties>
-    <property name="framewidth" value="32"/>
-    <property name="image" value="food"/>
-   </properties>
-  </object>
   <object id="31" name="CoinEntity" x="765" y="378" width="32" height="32">
    <properties>
     <property name="framewidth" value="32"/>
@@ -124,18 +118,6 @@
    <properties>
     <property name="framewidth" value="32"/>
     <property name="image" value="spinning_coin_gold"/>
-   </properties>
-  </object>
-  <object id="43" name="EnemyEntity" x="76.5" y="410" width="243" height="32">
-   <properties>
-    <property name="framewidth" value="32"/>
-    <property name="image" value="food"/>
-   </properties>
-  </object>
-  <object id="44" name="CoinEntity" x="148" y="411" width="32" height="32">
-   <properties>
-    <property name="framewidth" value="32"/>
-    <property name="image" value="food"/>
    </properties>
   </object>
   <object id="61" name="EnemyEntity" x="463.5" y="92" width="168" height="32">

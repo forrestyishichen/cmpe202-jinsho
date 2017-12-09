@@ -80,7 +80,7 @@
   </object>
   <object id="73" name="me.LevelEntity" x="1247" y="96.5" width="32" height="29">
    <properties>
-    <property name="to" value="bg_shroom"/>
+    <property name="to" value="newmap01"/>
    </properties>
   </object>
   <object id="87" name="me.LevelEntity" x="578" y="447.5" width="123" height="32">
